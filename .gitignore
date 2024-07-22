@@ -1,4 +1,99 @@
-.DS_Store
-node_modules/
-dist/
-npm-debug.log
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs and databases
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Visual Studio
+.vscode/
+*.code-workspace
+.vs/
+*.vcxproj*
+*.vcproj*
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.ncb
+*.user
+*.tlog/
+*.lastbuildstate
+ipch/
+*.pdb
+*.idb
+*.psess
+*.vsp
+*.vspx
+*.userosscache
+*.userprefs
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# Code::Blocks
+*.layout
+*.depend
+*.layout
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcworkspace/
+xcuserdata/
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+build/
+*.xcuserstate
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+cmake_install.cmake
+Makefile
